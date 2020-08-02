@@ -1,5 +1,7 @@
 <application>
   <component name="AutoDarkMode">
+    <option name="darkSchemeName" value="_@user_Xcode-Dark" />
     <option name="lightName" value="IntelliJ Light" />
+    <option name="lightSchemeName" value="_@user_Cyan light" />
   </component>
 </application>
